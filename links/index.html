@@ -32,7 +32,7 @@
 <meta property="og:locale" content="zh_TW">
 <meta property="og:image" content="https://cynosura.one/img/profile-avatar.webp">
 <meta property="article:published_time" content="2021-06-15T16:34:27.000Z">
-<meta property="article:modified_time" content="2024-03-27T10:32:39.520Z">
+<meta property="article:modified_time" content="2024-03-28T06:59:16.661Z">
 <meta property="article:author" content="Joey Lee">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://cynosura.one/img/profile-avatar.webp">
@@ -289,13 +289,6 @@
 
           </div>
           
-    
-  <div class="comments">
-    <div id="disqus_thread">
-      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
-    </div>
-  </div>
-  
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -399,8 +392,6 @@
   </span>
   <span class="author" itemprop="copyrightHolder">Joey Lee</span>
 </div>
-  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 強力驅動
-  </div>
 
 <div class="theme-info">
   <div class="powered-by"></div>
@@ -521,26 +512,6 @@ $(document).ready(function() {
   }
   // defer loading until the whole page loading is completed
   window.addEventListener('load', loadCount, false);
-</script>
-<script>
-  var disqus_config = function() {
-    this.page.url = "http://example.com/links/index.html";
-    this.page.identifier = "links/index.html";
-    this.page.title = "友情連結";
-    };
-  NexT.utils.loadComments(document.querySelector('#disqus_thread'), () => {
-    if (window.DISQUS) {
-      DISQUS.reset({
-        reload: true,
-        config: disqus_config
-      });
-    } else {
-      var d = document, s = d.createElement('script');
-      s.src = 'https://https-joelee11210-github-io.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', '' + +new Date());
-      (d.head || d.body).appendChild(s);
-    }
-  });
 </script>
 
 </body>
