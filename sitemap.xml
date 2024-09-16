@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://joelee11210.github.io/2024/09/16/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%AE%9E%E7%8E%B0WeChat%E7%9A%84FCM/</loc>
+    
+    <lastmod>2024-09-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://joelee11210.github.io/2024/02/16/AirPods%20Pro%202%E7%AE%80%E8%AF%84/</loc>
+    
+    <lastmod>2024-09-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://joelee11210.github.io/links/index.html</loc>
+    
+    <lastmod>2024-09-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://joelee11210.github.io/2024/09/07/iPhone%2015/</loc>
     
     <lastmod>2024-09-16</lastmod>
@@ -23,15 +50,6 @@
     <loc>https://joelee11210.github.io/15%E7%AE%80%E8%AF%84/index.html</loc>
     
     <lastmod>2024-09-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://joelee11210.github.io/links/index.html</loc>
-    
-    <lastmod>2024-07-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -99,6 +117,20 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://joelee11210.github.io/tags/Apple/</loc>
+    <lastmod>2024-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://joelee11210.github.io/tags/%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2024-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
